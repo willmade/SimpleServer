@@ -1,13 +1,13 @@
 {
-  "name": "server",
-  "version": "1.0.0",
+  "name": "Simple Server",
+  "version": "1.0.1",
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js"
   },
   "repository": "git@github.com:willmade/server.git",
-  "author": "wxsday x <wxsday@gmail.com>",
-  "license": "MIT",
+  "author": "William H.",
+  "license": "KCP",
   "private": true,
   "dependencies": {
     "express": "^4.17.1"

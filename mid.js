@@ -14,4 +14,5 @@ const wxo2 = (req, res, next) => {
   next();
 };
 
+// export functions to be used in other modules
 module.exports = { wxo1, wxo2 };
